@@ -1,1 +1,1 @@
-http://cd12099-full-stack-apps-develop.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2019/11/08/11/56/kitten-4611189_1280.jpg
+http://cd12099-full-stack-apps-develop.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
