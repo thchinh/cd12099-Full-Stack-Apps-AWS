@@ -24,7 +24,7 @@ export async function filterImageFromURL(inputURL) {
         .quality(60) // set JPEG quality
         .greyscale() // set greyscale
         .write(__dirname + outPath, (img) => {
-          resolve(outPath);
+          resolve(__dirname + outPath);
         });
     } catch (error) {
       reject(error);

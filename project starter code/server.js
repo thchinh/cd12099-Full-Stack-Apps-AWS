@@ -28,7 +28,7 @@ app.get("/filteredimage", async (req, res) => {
 
   const filePath = await filterImageFromURL(image_url);
 
-  return res.status(200).json({ filePath });
+  return res.status(200).sendFile(filePath);
 });
 
 // Start the Server
